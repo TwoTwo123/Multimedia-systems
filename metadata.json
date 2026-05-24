@@ -1,0 +1,6 @@
+{
+  "name": "Google 相簿智慧多媒體修圖與頻域濾波系統",
+  "description": "整合 2D DFT/FFT 頻域高低通濾波互動實驗，與 Google 相簿風格的調色修圖、畫筆、旋轉等多媒體專題系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
